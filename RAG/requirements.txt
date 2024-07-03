@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+chromadb
+ollama
+langchain
+plotly
+pandas
